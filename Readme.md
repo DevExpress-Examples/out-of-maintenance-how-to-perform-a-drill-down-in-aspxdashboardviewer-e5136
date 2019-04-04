@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DrillDown.js](./CS/Dashboard_PerformDrillDown/Scripts/DrillDown.js) (VB: [DrillDown.js](./VB/Dashboard_PerformDrillDown/Scripts/DrillDown.js))
-* [WebForm1.aspx](./CS/Dashboard_PerformDrillDown/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/Dashboard_PerformDrillDown/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/Dashboard_PerformDrillDown/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_PerformDrillDown/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/Dashboard_PerformDrillDown/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_PerformDrillDown/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to perform a drill-down in ASPxDashboardViewer
